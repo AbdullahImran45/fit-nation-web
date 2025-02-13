@@ -13,7 +13,7 @@ a {
 }
 
 h1, h2, h3 {
-    color: #fdae31;
+    color: #fdae32;
 }
 
 button, input, textarea {
@@ -22,7 +22,7 @@ button, input, textarea {
 
 /* Header */
 header {
-    background-color: #fdae31;
+    background-color: #fdae32;
     padding: 20px 0;
     text-align: center;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -62,7 +62,7 @@ section {
 }
 
 section h2 {
-    color: #fdae31;
+    color: #fdae32;
     font-size: 2rem;
     margin-bottom: 20px;
     font-weight: 600;
@@ -77,7 +77,7 @@ section p {
 /* Button Styles */
 button {
     padding: 10px 20px;
-    background-color: #fdae31;
+    background-color: #fdae32;
     border: none;
     border-radius: 5px;
     color: #000;
@@ -118,7 +118,7 @@ footer .social-icons {
 }
 
 footer .social-icons a {
-    color: #fdae31;
+    color: #fdae32;
     font-size: 1.5rem;
     transition: color 0.3s;
     text-decoration: none;
@@ -140,7 +140,7 @@ footer nav ul li {
 }
 
 footer nav ul a {
-    color: #fdae31;
+    color: #fdae32;
     text-decoration: none;
 }
 
@@ -159,7 +159,7 @@ footer form input[type="email"] {
 
 footer form button {
     padding: 10px 15px;
-    background-color: #fdae31;
+    background-color: #fdae32;
     color: #000;
     font-weight: bold;
     border: none;
@@ -181,7 +181,7 @@ footer form button:hover {
 }
 
 .text-highlight {
-    color: #fdae31;
+    color: #fdae32;
     font-weight: bold;
 }
 
@@ -212,7 +212,7 @@ footer form button:hover {
     padding:  0;
     margin: 20px auto;
     /* background: linear-gradient(135deg, #444, #222); */
-    color: #fdae31;
+    color: #fdae32;
     position: relative;
     width: 100%;
     /*height: 400px; /* Adjust the height as per your needs */
@@ -369,7 +369,7 @@ color: #333;
     width: 30%;
 }
 .project:hover{
-    border: 3px solid #fdae31;
+    border: 3px solid #fdae32;
 
 }
 .project img{
@@ -386,7 +386,7 @@ color: #333;
     width: 30%;
 }
 .project-item:hover{
-    border: 3px solid #fdae31;
+    border: 3px solid #fdae32;
 }
 
 .project-item img{
@@ -414,7 +414,7 @@ color: #333;
     height: auto; /* Keep width and height equal for a circle */
     border-radius: 50%; /* Make it circular */
     object-fit: cover; /* Ensure the image fits well */
-    border: 3px solid #fdae31; /* Optional: Add a border */
+    border: 3px solid #fdae32; /* Optional: Add a border */
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow */
 }
 .avatar{
@@ -430,7 +430,7 @@ width: 350px;
 }
 
 .about-content article strong{
-color: #fdae31;
+color: #fdae32;
 }
 .skill-list{
 display: grid;
@@ -529,7 +529,7 @@ input, textarea {
 
 input:focus, textarea:focus {
     outline: none;
-    border-color: #fdae31;
+    border-color: #fdae32;
 }
 .contact-info{
  display: flex;
@@ -541,7 +541,7 @@ input:focus, textarea:focus {
     width: 30%;
 }
 /* button.btn {
-    background-color: #fdae31;
+    background-color: #fdae32;
     color: #000;
     font-weight: bold;
     padding: 0.8rem 1.5rem;
